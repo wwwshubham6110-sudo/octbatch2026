@@ -14,3 +14,4 @@ https://education.github.com/git-cheat-sheet-education.pdf
 task3: find out the difference between public and private repo
 
 task4: create a private repo and try to clone, push, pull using different methods of authentication like http , ssh, GitHub cli
+done
